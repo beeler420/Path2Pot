@@ -2,7 +2,7 @@ WORKING WITH STEAM AND STANDALONE
 
 This does read memory; Your Anti-Virus may ring some alarms. If using standard browser with Windows Defender, just go into Defender settings and turn off Real Time Protection to allow the download. 
 
-We us PyMem to read memory, We do not need inject or alter anything in memory. 
+We read memory, We do not inject or alter anything in memory. 
 
 
 TO USE:
