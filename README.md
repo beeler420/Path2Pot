@@ -2,11 +2,8 @@ WORKING WITH STEAM AND STANDALONE
 
 This does read memory; Your Anti-Virus may ring some alarms. If using standard browser with Windows Defender, just go into Defender settings and turn off Real Time Protection to allow the download. 
 
-<<<<<<< HEAD
-We read memory, We do not inject or alter anything in memory. 
-=======
+
 We read memory, We do not need to inject or alter anything in memory. 
->>>>>>> adbd207ff7ad8aa9f85447a7dbfc69e6bafa2726
 
 
 TO USE:
