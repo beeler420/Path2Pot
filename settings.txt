@@ -1,3 +1,2 @@
-hp_threshold=70
-mp_threshold=15
-es_threshold=0
+heal_hp=70
+heal_mp=15
