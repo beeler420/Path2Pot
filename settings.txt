@@ -1,2 +1,2 @@
-heal_hp=70
-heal_mp=15
+heal_hp=80
+heal_mp=20
