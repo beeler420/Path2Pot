@@ -1,3 +1,3 @@
-hp_threshold=76
+hp_threshold=70
 mp_threshold=15
-es_threshold=70
+es_threshold=0
