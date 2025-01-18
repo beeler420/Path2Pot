@@ -8,8 +8,11 @@ We read memory, We do not need to inject or alter anything in memory.
 Current Features:
 
 Auto HP Flask
+
 Auto MP Flask
+
 Auto ES Flask
+
 Auto Chicken Pause
 
 Will be adding support for keybinds and Controller
