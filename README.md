@@ -5,13 +5,17 @@ This does read memory; Your Anti-Virus may ring some alarms. If using standard b
 
 We read memory, We do not need to inject or alter anything in memory. 
 
+Current Features:
 
-TO USE:
-1) Open Game
-2) Start exe
-3) Adjust sliders for wanted thresholds -- SAVE -- (IF YOU DONT USE ES AND NO ES POT, SLIDE ES SLIDER TO "0")
-4) ENJOY
+Auto HP Flask
+Auto MP Flask
+Auto ES Flask
+Auto Chicken Pause
 
-Will add more QoL improvements in the future.
+Will be adding support for keybinds and Controller
+Map Hacks Possibly
+Will be adding Custom HP & MP Flask CD's
 
-IF not working leave me a message, more than likely will need offsets updated. 
+
+
+IF not working leave me a message!
